@@ -1,0 +1,47 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# .NET, .NET Core, ASP.NET, ASP.NET Core
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.log
+*.sql
+*.sqlite
+*.pdb
+*.cache
+*.config
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.vs/
+.vscode/*
+.vs/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-workspace
+
+# Rider
+.idea/
+.idea/*
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/.idea_modules
+.idea/.name
+.idea/.rider
+.idea/.rider_modules
+.idea/.rider_modules.xml
+.idea/.rider.xml
